@@ -5,8 +5,10 @@ h1{
 }
 p{
   background-color: lightGrey;
+  padding: 1em;
 }
 body{
   background-image: url("record.png");
   background-repeat: repeat;
+  margin: 0;
 }
