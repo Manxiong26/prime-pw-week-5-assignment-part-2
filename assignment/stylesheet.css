@@ -1,9 +1,9 @@
-h1{
+header{
   background-color: darkBlue;
   color: skyblue;
   text-align: center;
 }
-p{
+main{
   background-color: lightGrey;
   padding: 1em;
 }
